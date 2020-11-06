@@ -1,0 +1,8 @@
+{
+  "name": "nsfw-prebuild-electron",
+  "version": "9.3.3",
+  "description": "Prebuild version of NSFW for Electron.",
+  "main": "index.js",
+  "author": "Fabio Spampinato <spampinabio@gmail.com>",
+  "license": "MIT"
+}
