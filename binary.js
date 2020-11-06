@@ -11,10 +11,6 @@ if ( platform === 'darwin' && arch === 'x64' ) {
 
   module.exports = require ( './binaries/win32-x64.node' );
 
-} else if ( platform === 'win32' && arch === 'ia32' ) {
-
-  module.exports = require ( './binaries/win32-ia32.node' );
-
 } else if ( platform === 'linux' && arch === 'x64' ) {
 
   module.exports = require ( './binaries/linux-x64.node' );
